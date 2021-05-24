@@ -1,0 +1,15 @@
+[package]
+name = "analog_literals"
+description = "Multi-Dimensional Analog Literals in Rust"
+authors = ["Daniel Prilik <danielprilik@gmail.com>"]
+version = "1.0.0"
+license = "WTFPL"
+edition = "2018"
+readme = "README.md"
+documentation = "https://docs.rs/analog_literals"
+homepage = "https://github.com/daniel5151/analog_literals"
+repository  = "https://github.com/daniel5151/analog_literals"
+keywords = ["joke", "literals", "mistake", "const", "no_std"]
+categories = ["parser-implementations", "visualization", "development-tools", "graphics", "mathematics"]
+
+[dependencies]

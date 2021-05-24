@@ -140,7 +140,7 @@ Oh yeah, I can taste those DOGE tendies already!
 
 # Putting it all together
 
-Brace yourself, because the following example may very-well shake you to the core:
+Brace yourself, because the following example may very well shake you to the core:
 
 ```rust
 use analog_literals::analog_literal as al;
@@ -162,6 +162,8 @@ al! {
                                    |    |
                                    +----+ }.area() * al! { +--------+ }
 ```
+
+![](https://media1.tenor.com/images/bcb961b67dc5ec34381372494c85c8fe/tenor.gif)
 
 # Safety and Syntax Validation
 
